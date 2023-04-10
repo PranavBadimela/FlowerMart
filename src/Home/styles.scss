@@ -1,0 +1,18 @@
+.home-container {
+  background-image: radial-gradient(#e9d5c8, pink, transparent 190%);
+  height: 100vh;
+}
+
+.top-container {
+  padding: 0 0 32px;
+  height: 400px;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  background-image: linear-gradient(
+      90deg,
+      rgba(59, 57, 57, 0.4) 1.07%,
+      transparent 111.89%
+    ),
+    url(https://images.shaadisaga.com/shaadisaga_production/static/home_page/New-cover-pic-2023.jpeg) !important;
+}
